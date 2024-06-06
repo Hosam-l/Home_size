@@ -3,6 +3,8 @@ welcome to file home size
 
 linux terminal :
 
+pkg install python3
+
 git clone https://github.com/Hosam-l/Home_size
 
 run file :
