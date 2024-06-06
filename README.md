@@ -3,7 +3,7 @@ welcome to file home size
 
 linux terminal :
 
-get https://github.com/Hosam-l/Home_size/blob/main/size_home.py
+get clone https://github.com/Hosam-l/Home_size/blob/main/size_home.py
 
 run file :
 
